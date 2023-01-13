@@ -25,6 +25,8 @@ Q1) Implemetation of Infrastructure as a service
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
  IaaS is the utilization of APIs to manage the lowest levels of network infrastructure, including networking, storage, servers, and virtualization.
  Examples: Rackspace, Digital Ocean, Google Compute Engine, and some deployments of Microsoft Azure and Amazon Web Services (AWS)
+ 
+ Elastic Compute Cloud (Amazon EC2) provides scalable computing capacity in the Amazon Web Services (AWS) Cloud.
  ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Pros and Cons of EC2
 
