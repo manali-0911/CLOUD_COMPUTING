@@ -1,6 +1,11 @@
 Q2.Working and Implementation of Software as a service.
 
-Open google docs--> open blank--> write somethon and share
+Open google docs--> open blank--> write something and share
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Software as a service (or SaaS) is a way of delivering applications over the Internet—as a service. Instead of installing and maintaining software, you simply access
+it via the Internet, freeing yourself from complex software and hardware management.Well-known SaaS examples include Dropbox, Google Workspace, and Salesforce. 
+Infrastructure-as-a-service (IaaS) offers access to resources such as servers, storage, memory, and other services.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Pros
 • No Need to Install and Run Applications
