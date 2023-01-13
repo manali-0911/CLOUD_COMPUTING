@@ -9,8 +9,11 @@ ________________________________________________________________________________
 
 Access	 		IAAS gives access to the resources 		PAAS gives access to run time environment             SAAS gives access to the end user.
 
-		  									to deployment and development tools for application.
-				like virtual machines and virtual 
+		  									
+									 to deployment and development tools 
+										for application.
+				
+			like virtual machines and virtual 
 				storage.
 ______________________________________________________________________________________________________________________________________________________________
 
@@ -18,8 +21,8 @@ Cloud services         AWS, sun,vCloud Express                      Facebook, an
 ______________________________________________________________________________________________________________________________________________________________
 
 Popularity	       It is popular among developers and 		developers who focus on the development of         consumers and companies, 
-																				such as file sharing, email, 
-																				and networking.
-												apps and scripts
+																		such as 				file sharing, email, 
+																	and 					networking.
+										apps and scripts
 				researchers
 ______________________________________________________________________________________________________________________________________________________________
