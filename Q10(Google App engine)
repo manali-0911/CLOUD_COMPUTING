@@ -7,3 +7,10 @@ Q10. Installing and Developing Application Using Google App Engine.
 5. go to code window and type print("hello world")
 6.Go to test--> give event name (myevent)--> save it
 7.Deploy it --> test again
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Google App Engine (often referred to as GAE or simply App Engine) is a cloud computing platform as a service for developing and hosting web applications in 
+Google-managed data centers. Applications are sandboxed and run across multiple servers.One example of an application created in GAE is an Android messaging 
+app that stores user log data. The app can store user messages and write event logs to the Firebase Realtime Database and use it to automatically synchronize 
+data across devices.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
