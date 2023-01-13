@@ -1,0 +1,33 @@
+Q9. Practical Implementation of cloud security.
+
+Mention how it works on AWS◦ EC ◦ S3◦ IAM
+• Google Drive or any other service of Google
+• Facebook groups
+• Instagram follow someone
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Answer using AWS
+When we talk about cloud computing one of the main factors regarding it is Security. If the security 
+conflagrations are not done properly it may a threat to the owner’s data.
+
+Considering the service EC2 (Elastic Compute Cloud), AWS provides the admins some powerful 
+tools to tweak any of the security permissions, which maybe with regards to the Network, Hardware
+or Software of the VM.
+
+In networking for example, admins have an array of options to choose from which increases 
+security and as well as performance of their VM.
+
+Like, admin can set the VM with a custom Network, Subnet and Public IP rather than the default 
+configuration.
+
+Or even admin might wish to add custom IAM roles which further increases the VM’s security 
+structure.
+
+Security groups which are a set of firewall rules that control traffic of the VM can also be 
+configured as per the wish of the admin.
+
+Or in S3 admin can block access of our buckets as per our need i.e. Public or Private
+
+And in IAM admin can micro manage permissions for each use as per the need.
+
+So, these are some of the configurations that an admin can do in cloud computing for 
+implementation of a security cloud environment.
