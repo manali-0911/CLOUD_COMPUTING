@@ -1,2 +1,13 @@
 Q7. Program of a web feed
 
+1.Go to aws --> search for lambda
+2.Give name to function(manali)--> click on create function
+3.go to basic info --> give fun name(manali)--> runtime python 3.9
+4.After that click on create fun
+5. go to code window and type print("hello world")
+6.Go to test--> give event name (myevent)--> save it
+7.Deploy it --> test again
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Infrastructure-as-a-Service, commonly referred to as simply “IaaS,” is a form of cloud computing that delivers fundamental compute, network, and storage resources to consumers on-demand, over 
+the internet, and on a pay-as-you-go basis. IaaS enables end users to scale and shrink resources on an as-needed basis, reducing the need for high, up-front capital expenditures or unnecessary 
+“owned” infrastructure, especially in the case of “spiky” workloads.
