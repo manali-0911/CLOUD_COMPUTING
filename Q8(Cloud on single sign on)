@@ -1,0 +1,73 @@
+Q8. Execute the step to Demonstrate and implementation of cloud on single sign on
+
+Cloud Single Sing-On (SSO)
+- Single sign-on (SSO) is a technology which combines several different application login screens 
+into one. With SSO, a user only has to enter their login credentials (username, password, etc.) one 
+time on a single page to access all of their SaaS applications.
+SSO is often used in a business context, when user applications are assigned and managed by an 
+internal IT team. Remote workers who use SaaS applications also benefit from using SSO
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+What are the advantages of SSO?
+In addition to being much simpler and more convenient for users, SSO is widely considered to be 
+more secure. This may seem counterintuitive: how can signing in once with one password, instead 
+of multiple times with multiple passwords, be more secure? Proponents of SSO cite the following 
+reasons:
+
+ Stronger passwords: Since users only have to use one password, SSO makes it easier for them 
+to create, remember, and use stronger passwords.* In practice, this is typically the case: most users 
+do use stronger passwords with SSO
+
+ *What makes a password "strong"? A strong password is not easily guessed and is random 
+enough that a brute force attack is not likely to succeed. w7:g"5h$G@ is a fairly strong password; 
+password123 is not.
+
+ No repeated passwords: When users have to remember passwords for several different apps and
+services, a condition known as "password fatigue" is likely to set in: users will re-use passwords 
+across services. Using the same password across several services is a huge security risk because it 
+means that all services are only as secure as the service with the weakest password protection: if 
+that service's password database is compromised, attackers can use the password to hack all of the 
+user's other services as well. SSO eliminates this scenario by reducing all logins down to one login.
+
+ Better password policy enforcement: With one place for password entry, SSO provides a way 
+for IT teams to easily enforce password security rules. For example, some companies require users 
+to reset their passwords periodically. With SSO, password resets are easier to implement: instead of 
+constant password resets across a number of different apps and services, users only have one 
+password to reset. (While the value of regular password resets has been called into question, some 
+IT teams still consider them an important part of their security strategy.)
+
+ Multi-factor authentication: Multi-factor authentication, or MFA, refers to the use of more than
+one identity factor to authenticate a user. For example, in addition to entering a username and 
+password, a user might have to connect a USB device or enter a code that appears on their 
+smartphone. Possession of this physical object is a second "factor" that establishes the user is who 
+they say they are. MFA is much more secure than relying on a password alone. SSO makes it 
+possible to activate MFA at a single point instead of having to activate it for three, four, or several 
+dozen apps, which may not be feasible.
+
+ Single point for enforcing password re-entry: Administrators can enforce re-entering 
+credentials after a certain amount of time to make sure that the same user is still active on the 
+signed-in device. With SSO, they have a central place from which to do this for all internal apps, 
+instead of having to enforce it across multiple different apps, which some apps may not support.
+ Internal credential management instead of external storage: Usually, user passwords are stored 
+remotely in an unmanaged fashion by applications and services that may or may not follow best 
+security practices. With SSO, however, they are stored internally in an environment that an IT team 
+has more control over.
+
+ Less time wasted on password recovery: In addition to the above security benefits, SSO also 
+cuts down on wasted time for internal teams. IT has to spend less time on helping users recover or 
+reset their passwords for dozens of apps, and users spend less time signing into various apps to 
+perform their jobs. This has the potential to increase business productivity.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+How does an SSO login work?
+Whenever a user signs in to an SSO service, the service creates an authentication token that 
+remembers that the user is verified. An authentication token is a piece of digital information stored 
+either in the user's browser or within the SSO service's servers, like a temporary ID card issued to 
+the user. Any app the user accesses will check with the SSO service. The SSO service passes the 
+user's authentication token to the app and the user is allowed in. If, however, the user has not yet 
+signed in, they will be prompted to do so through the SSO service.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Using SSO can provide several advantages:
+• You enable a better experience for users because they can use their existing credentials to 
+authenticate and don't have to enter credentials as often.
+• You ensure that your existing IdP remains the system of record for authenticating users.
+• You don't have to synchronize passwords to Cloud Identity or Google Workspace
+
