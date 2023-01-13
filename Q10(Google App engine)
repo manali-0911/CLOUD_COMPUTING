@@ -1,2 +1,9 @@
 Q10. Installing and Developing Application Using Google App Engine.
 
+1.Go to aws --> search for lambda
+2.Give name to function(manali)--> click on create function
+3.go to basic info --> give fun name(manali)--> runtime python 3.9
+4.After that click on create fun
+5. go to code window and type print("hello world")
+6.Go to test--> give event name (myevent)--> save it
+7.Deploy it --> test again
