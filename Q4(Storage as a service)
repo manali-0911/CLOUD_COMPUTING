@@ -1,0 +1,14 @@
+Q4. Practical Implementation of Storage as a Service
+
+1.Sign in Aws --> create S3 service
+2.Click on create bucket
+3.Give bucket name(myawsbucketfrorpraticalexam) --> select region mumbai
+4.Click on create bucket
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Storage as a Service (STaaS) is the practice of using public cloud storage resources to store your data. Using STaaS is more cost efficient than building private 
+storage infrastructure, especially when you can match data types to cloud storage offerings
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+What is a bucket in AWS S3?
+A bucket is a container for objects. An object is a file and any metadata that describes that file. To store an object in Amazon S3, you create a bucket and then upload
+the object to the bucket. When the object is in the bucket, you can open it, download it, and move it.
