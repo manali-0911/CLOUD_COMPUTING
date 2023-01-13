@@ -1,0 +1,17 @@
+Q6.Working implementation of identity management
+
+Okta/ Onelogin platform
+• Check Onelogin on youtube steps/ read documentation about it
+• Identity management on AWS (IAM)
+• Identity management on GCP
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+onelogin platform:-
+OneLogin gives users the ability to access the applications and other resources they need to do their job by logging in once to a single interface. Platforms like 
+OneLogin are known as Identity and Access Management (IAM) solutions that are primarily used to provide their users with a Single Sign-on (SSO) experience
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+GCP:-
+The Google Cloud Platform (GCP) is a suite of cloud services that offers server space on virtual machines, internal networks, VPN connections, disk storage, machine 
+language SaaS (Software as a Service) applications, and even something called TPU (Tensor Processing Units).
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
